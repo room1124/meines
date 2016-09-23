@@ -123,6 +123,14 @@ http://live4.origins.web.tv:1935/akamairtmp/0f45dbf974d7a4a1b31730ef5c36b235_liv
 http://188.138.9.246/S2/HLS_LIVE/cnn_turk/index.m3u8
 #EXTINF:-0,CNN TÜRK alt
 http://media.netd.com.tr/S2/HLS_LIVE/cnn_turk/index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/468741304235466753/816aNBEv.jpeg" tvg-name="CNNTURK SECENEK 2"  group-title="Group N/A",CNNTURK SECENEK 2
+http://212.224.80.78/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+
+
+
+
+
 #EXTINF:-0,C TV
 http://win2.yayin.com.tr/CTV_TV/CTV_TV/iptvdelisi.m3u8
 #EXTINF:-0,ÇANAKKALE TON TV
