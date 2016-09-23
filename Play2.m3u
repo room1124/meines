@@ -1,0 +1,239 @@
+﻿#EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-gm6jQJ53lqA/VDWFJ8EWZWI/AAAAAAAAJkQ/smdtDJAzFWA/s1600/Trt1yenilogo.png" tvg-name="TRT1 HD"  group-title="Group N/A",TRT1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-gm6jQJ53lqA/VDWFJ8EWZWI/AAAAAAAAJkQ/smdtDJAzFWA/s1600/Trt1yenilogo.png" tvg-name="TRT1 HD SECENEK 2"  group-title="Group N/A",TRT1 HD SECENEK 2
+http://si.trtcdn.com/tv/trt1/mp4:trt1_3/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-YuDuxNvCDV4/VDWF7ChyVCI/AAAAAAAAJkg/48wMSg4c4PQ/s1600/TRT_Haber_logosu.png" tvg-name="TRTHABER HD"  group-title="Group N/A",TRTHABER HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-YuDuxNvCDV4/VDWF7ChyVCI/AAAAAAAAJkg/48wMSg4c4PQ/s1600/TRT_Haber_logosu.png" tvg-name="TRTHABER HD SE�ENEK 2"  group-title="Group N/A",TRTHABER HD SE�ENEK 2
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_900_av-p.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://2.bp.blogspot.com/-xyPg1KG47OU/TtWt-Usr0aI/AAAAAAAAAy4/eHsOR8q1avU/s1600/trt-turk-logo.jpg" tvg-name="TRT TURK"  group-title="Group N/A",TRT TURK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-p.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-SZEPY_n_aGM/TtZipo-8gTI/AAAAAAAAA0A/ZmS9IeOZ-Fs/s1600/Haberturk_TV_logo.png" tvg-name="HABERTURK HD"  group-title="Group N/A",HABERTURK HD
+http://mn-i.mncdn.com/haberturk/smil:ihaberturk.smil/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://2.bp.blogspot.com/-zr1P6E9oFf0/TwBcI32AXHI/AAAAAAAABKg/X6k0YSCTKUg/s320/star-tv-yeni-logo.jpg" tvg-name="STARTV"  group-title="Group N/A",STARTV
+http://85.132.59.163:1234/startv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://2.bp.blogspot.com/-zr1P6E9oFf0/TwBcI32AXHI/AAAAAAAABKg/X6k0YSCTKUg/s320/star-tv-yeni-logo.jpg" tvg-name="STARTV SECENEK 2"  group-title="Group N/A",STARTV SECENEK 2
+http://149.255.152.110/startv/index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-iFrtsg17Da8/TtWsEu4IbMI/AAAAAAAAAxo/oNUvN7ODJgs/s1600/Show-TV-logo.png" tvg-name="SHOWTV HD"  group-title="Group N/A",SHOWTV HD
+http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-i_klaHTDRV0/Tu5wobDt_CI/AAAAAAAABCQ/zY39DnIdevk/s1600/Kanald_HD-logo.gif" tvg-name="KANALD HD"  group-title="Group N/A",KANALD HD
+http://37.48.83.10/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-i_klaHTDRV0/Tu5wobDt_CI/AAAAAAAABCQ/zY39DnIdevk/s1600/Kanald_HD-logo.gif" tvg-name="KANALD HD SECENEK 2"  group-title="Group N/A",KANALD HD SECENEK 2
+http://37.48.83.10/S1/HLS_LIVE/kanald/750/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://4.bp.blogspot.com/-b2JwdLwDyAM/Ttfpk-bNbWI/AAAAAAAAA5Y/d_2_004S1cs/s1600/atv-hd-logo.jpg" tvg-name="ATV HD"  group-title="Group N/A",ATV HD
+http://151.252.39.85:80/telezapp/ATVHD.stream/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-AIEvONnNgIE/TtWtJGKJvJI/AAAAAAAAAyY/otU-RcsLRCg/s320/Fox-Logo.png" tvg-name="FOXTV HD"  group-title="Group N/A",FOXTV HD
+http://149.255.152.110/foxturk/index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-AIEvONnNgIE/TtWtJGKJvJI/AAAAAAAAAyY/otU-RcsLRCg/s320/Fox-Logo.png" tvg-name="FOXTV HD SECENEK 2"  group-title="Group N/A",FOXTV HD SECENEK 2
+http://151.252.39.85:80/telezapp/FoxHD.stream/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-Ge3P57Cp5Mc/VDWGUpfRKnI/AAAAAAAAJko/tmSrQKdbChA/s1600/Tv8_Yeni_Logo.png" tvg-name="TV8 HD"  group-title="Group N/A",TV8 HD
+http://149.255.152.110/tv8/index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-0wSFkdLX0Hk/Ttb3eBR7LKI/AAAAAAAAA1Y/u7MEd8sHdGs/s1600/a-haber.jpg" tvg-name="A HABER"  group-title="Group N/A",A HABER
+http://85.132.59.163:1234/ahaber
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-0wSFkdLX0Hk/Ttb3eBR7LKI/AAAAAAAAA1Y/u7MEd8sHdGs/s1600/a-haber.jpg" tvg-name="A HABER SECENEK 2"  group-title="Group N/A",A HABER SECENEK 2
+http://trkvz-live.ercdn.net/atvhd_bo/ahaberhd_480p.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbRfZZRIpBgZX16EDwMWmtYftgE7oaNw_nHZ00gz29pGy-RzeLIA" tvg-name="AKIT TV"  group-title="Group N/A",AKIT TV
+http://yayin3.canlitv.com:1935/canlitv/akittv/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-kVN4m2Fh8Jk/TtZi8IwkWrI/AAAAAAAAA0I/IAE-5UxHdvg/s1600/Kanal-24-logo.png" tvg-name="24 TV"  group-title="Group N/A",24 TV
+http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://2.bp.blogspot.com/-rp_PCtFYZsg/TtWsZXDfzPI/AAAAAAAAAx4/C54KJn-vg3Y/s1600/NTV_logo.png" tvg-name="NTV"  group-title="Group N/A",NTV
+http://149.255.152.110/ntvtr/index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.hizliresim.com/9GYv7Q.jpg" tvg-name="TRT WORLD"  group-title="Group N/A",TRT WORLD
+http://si.trtcdn.com/tv/webtvizletme/trtworld_1/chunklist_w1187988455.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.hizliresim.com/QQP153.jpg" tvg-name="HALK TV"  group-title="Group N/A",HALK TV
+http://yayin3.canlitv.com:1935/canlitv/halktv/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-h3SE70jWl4s/TtZjhD-_m0I/AAAAAAAAA0Y/_ZkygA13D6M/s1600/Kanal_A_logo.png" tvg-name="KANAL A"  group-title="Group N/A",KANAL A
+http://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/655342011789254656/b_1A6bAX.jpg" tvg-name="TVNET"  group-title="Group N/A",TVNET
+http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b850000.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://odatv.com/images/2013_09/2013_09_16/ulusal-kanal-bugun-cok-mutlu-1609131200_l.jpg" tvg-name="ULUSAL KANAL"  group-title="Group N/A",ULUSAL KANAL
+rtmp://184.173.181.2/8132//8132
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://odatv.com/images/2013_09/2013_09_16/ulusal-kanal-bugun-cok-mutlu-1609131200_l.jpg" tvg-name="ULUSAL KANAL SE�ENEK 2"  group-title="Group N/A",ULUSAL KANAL SE�ENEK 2
+http://184.173.181.2:1935/8132/8132/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/468741304235466753/816aNBEv.jpeg" tvg-name="CNNTURK"  group-title="Group N/A",CNNTURK
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/468741304235466753/816aNBEv.jpeg" tvg-name="CNNTURK SECENEK 2"  group-title="Group N/A",CNNTURK SECENEK 2
+http://212.224.80.78/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.logocu.gen.tr/logolar/S/SkyTurk.jpg" tvg-name="360 TV"  group-title="Group N/A",360 TV
+http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.canlitv8.com/wp-content/uploads/2015/04/TGRT_Haber1.png" tvg-name="TGRTHABER"  group-title="Group N/A",TGRTHABER
+rtmp://cdn1.streamencoding.com/tgrt_haber/tgrt1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://cdn.ucankus.com/img/beyaztv34.jpg" tvg-name="BEYAZ TV"  group-title="Group N/A",BEYAZ TV
+http://37.77.2.234:1935/beyaz/live/chunklist_w2059968455.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://cdn.ucankus.com/img/beyaztv34.jpg" tvg-name="BEYAZ TV SECENEK 2"  group-title="Group N/A",BEYAZ TV SECENEK 2
+http://37.77.2.236:1935/beyaz/beyaz.stream/chunklist_w731482708.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.kanalben.com/images/bentv-logo.jpg" tvg-name="BEN TV"  group-title="Group N/A",BEN TV
+rtmp://kanalben.cubecdn.net/live//kanalben1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://1.bp.blogspot.com/-Z1dGfye062Y/VPwwczSzEMI/AAAAAAAAAUQ/d9iUrO5EnXU/s1600/flash_tv_kimin.png" tvg-name="FLASH TV"  group-title="Group N/A",FLASH TV
+http://184.173.181.2:1935/8158/8158/chunklist_w984156436.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://1.bp.blogspot.com/-Z1dGfye062Y/VPwwczSzEMI/AAAAAAAAAUQ/d9iUrO5EnXU/s1600/flash_tv_kimin.png" tvg-name="FLASH TV SECENEK 2"  group-title="Group N/A",FLASH TV SECENEK 2
+rtmp://184.173.181.2/8158//8158
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.birtvizle.com/wp-content/uploads/2015/01/kanal-urfa-izle.png" tvg-name="KANALURFA"  group-title="Group N/A",KANALURFA
+rtmp://stream.taksimbilisim.com/kanalurfa//bant1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.hurimg.com/i/hurriyet/90/0x0/56d548e7c03c0e6678e91cf6.jpg" tvg-name="BENGUTURK TV"  group-title="Group N/A",BENGUTURK TV
+http://yayin8.canliyayin.org:1935/benguturk/benguturk/radyodelisi.m3u8?
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://sorgulama.biz.tr/wp-content/uploads/2015/02/BLOMBERG-HT.png" tvg-name="BLOOMBERG HT"  group-title="Group N/A",BLOOMBERG HT
+http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsY8A7f5vETPk2I51mu4MfscaSA6pmnjI0zP4JwLI8mzyJdXvNEQ5iRjw" tvg-name="BUGUN TV"  group-title="Group N/A",BUGUN TV
+rtmp://yayin8.canliyayin.org/benguturk//benguturk
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.habermrt.com/images/haberler/trt_6nin_adi_degisti_h242596.jpg" tvg-name="TRT KURDI(6)"  group-title="Group N/A",TRT KURDI(6)
+http://sol.trtcdn.com/tv/trt6/smil:trt6.smil/chunklist_w2436925_b665600.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/547393405450321921/gnrEXfb0.png" tvg-name="TRT AVAZ"  group-title="Group N/A",TRT AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_1000_av-b.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.emlakglobal.com/wp-content/uploads/trtarapca.jpg" tvg-name="TRT ARAPCA(ARABIC)"  group-title="Group N/A",TRT ARAPCA(ARABIC)
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_1000_av-b.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.trtspor.com/resimler/98000/99548.jpg" tvg-name="TRTSPOR HD"  group-title="Group N/A",TRTSPOR HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.trtspor.com/resimler/98000/99548.jpg" tvg-name="TRTSPOR SECENEK 2"  group-title="Group N/A",TRTSPOR SECENEK 2
+http://si.trtcdn.com/tv/trtspor/mp4:trtspor_3/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://img-cdn.ntvspor.net/C/I/159/ntvspor_hd_logo_600_PR52A.jpg" tvg-name="NTVSPOR"  group-title="Group N/A",NTVSPOR
+http://yayin3.canlitv.com:1935/canlitv/ntvspor/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://img-cdn.ntvspor.net/C/I/159/ntvspor_hd_logo_600_PR52A.jpg" tvg-name="NTVSPOR SECENEK 2"  group-title="Group N/A",NTVSPOR SECENEK 2
+http://85.132.59.163:1234/ntvspor
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-yQMBQUV5LOQ/VUDLWZzNKUI/AAAAAAAAARU/fB9wD8PKGyk/s1600/asporhd-webtvizle-me.png" tvg-name="ASPOR"  group-title="Group N/A",ASPOR
+http://85.132.59.163:1234/aspor
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.canlitelevizyonizle.com/wp-content/uploads/2015/05/Bursaspor-Tv.jpg" tvg-name="BURSASPOR TV"  group-title="Group N/A",BURSASPOR TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.canlitelevizyonizle.com/wp-content/uploads/2015/05/sports-tv.png" tvg-name="SPORTS TV"  group-title="Group N/A",SPORTS TV
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.canlitelevizyonizle.com/wp-content/uploads/2015/05/sports-tv.png" tvg-name="SPORTS TV SECENEK 2"  group-title="Group N/A",SPORTS TV SECENEK 2
+rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.hdcanlitvizle.org/wp-content/uploads/2015/07/tjktv-logo.jpg" tvg-name="TJK TV"  group-title="Group N/A",TJK TV
+http://tjktv.ercdn.net/tjktv_576p.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.hertv.net/i/canli-tv-izle/fanatik-tv.png" tvg-name="FANATIK TV"  group-title="Group N/A",FANATIK TV
+http://fanatik.hls.cubecdn.net/fanatiktv/stream_720.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://static.trtcocuk.net.tr/img/trt-cocuk-logo.png" tvg-name="TRTCOCUK"  group-title="Group N/A",TRTCOCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://cizgifilmizler.org/wp-content/uploads/planet-cocuk.jpg" tvg-name="PLANET COCUK"  group-title="Group N/A",PLANET COCUK
+http://77.223.146.117:1935/live/planetc/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.hizliresim.com/byv48G.jpg" tvg-name="CARTOON NETWORK"  group-title="Group N/A",CARTOON NETWORK
+http://yayin3.canlitv.com:1935/canlitv/cartoonnetwork/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.hizliresim.com/7AB8v5.png" tvg-name="MINIKA GO"  group-title="Group N/A",MINIKA GO
+http://yayin3.canlitv.com.tr:1935/live/minikago/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.hizliresim.com/G3Z1P2.jpg" tvg-name="DISNEY CHANNEL"  group-title="Group N/A",DISNEY CHANNEL
+http://yayin3.canlitv.com:1935/canlitv/disney/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lalegültv.com/uploads/articles/62b3b098.jpg" tvg-name="LALEGUL TV"  group-title="Group N/A",LALEGUL TV
+http://yayin5.canliyayin.org:1935/live/lalegultvx7/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/722974072561344513/pKwMrgYv.jpg" tvg-name="KUDUS TV"  group-title="Group N/A",KUDUS TV
+rtmp://yayin8.canliyayin.org/kudustv//kudustv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/484324982118305792/uhfQ0FyU.jpeg" tvg-name="TRT DIYANET"  group-title="Group N/A",TRT DIYANET
+http://sol.trtcdn.com/tv/trtdiyanet/smil:trtdiyanet.smil/chunklist_w1941887035_b665600.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://images1.kure.tv/channel_images/logo/66/original/MED%C4%B0NE-YEN%C4%B0-LOGO.png" tvg-name="MEDINE TV"  group-title="Group N/A",MEDINE TV
+http://livetr.gostream.nl/medine/medine/chunklist_w1247083417.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.karsigazete.com.tr/upload/2015/03/102490.jpg" tvg-name="TV5"  group-title="Group N/A",TV5
+http://yayin5.canliyayin.org:1935/live/tv5/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.canlitv.info/wp-content/uploads/2014/05/hilal-tv-izl.png" tvg-name="HILAL TV"  group-title="Group N/A",HILAL TV
+rtmp://yayin5.canliyayin.org/hilaltv//hilaltv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.canlimobeseizle.com/wp-content/uploads/20121121133549Semerkand_Tv_logosu.png" tvg-name="SEMEKAND TV"  group-title="Group N/A",SEMEKAND TV
+rtmp://semerkandglb.mediatriple.net/semerkandliveedge//semerkand1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://d.risalehaber.com/news/57979.jpg" tvg-name="DOST TV"  group-title="Group N/A",DOST TV
+http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://d.risalehaber.com/news/57979.jpg" tvg-name="DOST TV SECENEK 2"  group-title="Group N/A",DOST TV SECENEK 2
+rtmp://yayin.dosttv.com/dosttv/dosttv2
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://d.risalehaber.com/news/57979.jpg" tvg-name="MAVI KARADENIZ TV"  group-title="Group N/A",MAVI KARADENIZ TV
+rtmp://stream.taksimbilisim.com/mavikaradeniz//bant1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.powerturk.com/i/defaultAlbumArt.jpg" tvg-name="NUMBER ONE TV"  group-title="Group N/A",NUMBER ONE TV
+rtmp://mn-l.mncdn.com/birnumaramedya_live//nr1tv.sdp
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.hizliresim.com/7AB8yN.png" tvg-name="MUZ TV(AZERBAYCAN)"  group-title="Group N/A",MUZ TV(AZERBAYCAN)
+rtmp://85.132.78.6/live//muztv.stream
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/0/0d/20150403012407!Number_One_Turk_TV_logosu.png" tvg-name="NUMBER ONE TURK"  group-title="Group N/A",NUMBER ONE TURK
+rtmp://mn-l.mncdn.com/birnumaramedya_live//nr1_turk.sdp
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.powerturk.com/i/defaultAlbumArt.jpg" tvg-name="POWERTURK TV"  group-title="Group N/A",POWERTURK TV
+http://powertv.cdnturk.com/powertv/_definst_/powerturktv.smil/byahmet.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.hizliresim.com/vZaoPA.jpg" tvg-name="DREAM TV"  group-title="Group N/A",DREAM TV
+http://212.224.80.73/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.hizliresim.com/WbXr7m.jpg" tvg-name="DREAMTURK TV"  group-title="Group N/A",DREAMTURK TV
+http://212.224.80.75/S2/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.hizliresim.com/VEQy9B.png" tvg-name="TMB TV"  group-title="Group N/A",TMB TV
+rtmp://tmbtv.mediatriple.net/tmbtv/tmbtv2
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.hizliresim.com/lEQzQQ.png" tvg-name="TRT MUZIK"  group-title="Group N/A",TRT MUZIK
+http://sol.trtcdn.com/tv/trtmuzik/smil:trtmuzik.smil/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.turkavizyon.com/uploads/images/vatan-tv-logo.jpg" tvg-name="VATAN TV"  group-title="Group N/A",VATAN TV
+rtmp://188.124.1.135/vatan//vatan
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.canlitvizle.io/wp-content/uploads/2016/03/tv2.png" tvg-name="TV2 HD"  group-title="Group N/A",TV2 HD
+https://2122248070.dogannet.tv/S2/HLS_LIVE/tv2/1000/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.hizliresim.com/nEbG95.jpg" tvg-name="PLANET PEMBE"  group-title="Group N/A",PLANET PEMBE
+http://77.223.146.117:1935/live/planetp/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.hizliresim.com/B8O9WV.jpg" tvg-name="PLANET TURK"  group-title="Group N/A",PLANET TURK
+http://77.223.146.117:1935/live/planett/chunklist.m3u8
+
