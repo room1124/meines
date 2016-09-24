@@ -369,6 +369,11 @@ rtmp://92.42.35.100/live/kordontv/kordontv
 rtmp://stream.taksimbilisim.com/koroglutv/bant1
 #EXTINF:-0,KÖY TV
 rtmp://www.arkumedia.com:1935/koytv/koytv
+
+
+#EXTINF:-0,KRAL TV 
+http://37.153.247.131:9981/stream/channelid/826976349?
+
 #EXTINF:-0,KRAL AKUSTIK TV
 http://kraldigital.radyotvonline.com/kraldigital/smil:akustiktv.smil/iptvdelisi.m3u8?token=28f874b6b348bd9ece56f263d7515b9620e6c9baf355d178
 #EXTINF:-0,KRAL POP KONSER TV
@@ -543,6 +548,11 @@ rtmp://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1
 rtmp://cdn1.streamencoding.com:1935/tgrt_eu/tgrteu1
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.canlitv8.com/wp-content/uploads/2015/04/TGRT_Haber1.png" tvg-name="TGRTHABER"  group-title="Group N/A",TGRTHABER
 rtmp://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3
+
+#EXTINF:-0,Tivibuspor
+http://orbit-iptv.com:2500/live/ital/ital1/1970.ts
+
+
 #EXTINF:-0,TJK TV
 http://tjktv.ercdn.net/tjktv.m3u8
 #EXTINF:-0,TRABZON TV
