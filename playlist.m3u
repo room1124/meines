@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 #EXTINF:-0,3 NISAN TV
 rtmp://yayin.tvdunyasi.tv/live/3nisan
-#EXTINF:-0,24 TV
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-kVN4m2Fh8Jk/TtZi8IwkWrI/AAAAAAAAA0I/IAE-5UxHdvg/s1600/Kanal-24-logo.png" tvg-name="24 TV"  group-title="Group N/A",24 TV
 http://mn-l.mncdn.com:1935/kanal24/kanal243/iptvdelisi.m3u8
 #EXTINF:-0,360 TV (Skytürk)
 http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8
@@ -81,7 +81,7 @@ rtmp://berekethayvan.mediatriple.net:1935/berekethayvan?TOKEN=#TOKENSTRING#/live
 http://yayin3.canlitv.com:1935/canlitv/besttv/chunklist_w1270111074.m3u8
 #EXTINF:-0,Besiktas Belediyesi Web TV
 http://s02.vidpanel.com/besiktas/besiktas.m3u8
-#EXTINF:-0,BEYAZ TV
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://cdn.ucankus.com/img/beyaztv34.jpg" tvg-name="BEYAZ TV"  group-title="Group N/A",BEYAZ TV
 http://37.77.2.236:1935/beyaz/beyaz.stream/iptvdelisi.m3u8
 #EXTINF:-0,Beykoz TV
 http://beykozbelediyesilive.mediatriple.net/beykozbelediyesi_live/broadcast_56b89cbdbdc3f.smil/chunklist_w1499071115_b400000.m3u8
@@ -337,7 +337,7 @@ rtmp://www.kanalt.com.tr/live/_definst_/kanalt
 http://yayin3.canlitv.com:1935/canlitv/kibriskanalt/iptvdelisi.m3u8
 #EXTINF:-0,KANAL TEK
  http://sr1.netmedya.org:1935/kanaltek/live.sdp/iptvdelisi.m3u8
-#EXTINF:-0,KANAL URFA
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.birtvizle.com/wp-content/uploads/2015/01/kanal-urfa-izle.png" tvg-name="KANALURFA"  group-title="Group N/A",KANALURFA
 http://stream.taksimbilisim.com:1935/kanalurfa/smil:kanalurfa.smil/iptvdelisi.m3u8
 #EXTINF:-0,KAPADOKYA TV
 http://yayin3.canlitv.com:1935/live/kapadokyatv/iptvdelisi.m3u8
@@ -541,7 +541,7 @@ rtmp://91.93.118.165/tempotv/livestream
 rtmp://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1
 #EXTINF:-0,TGRT EU
 rtmp://cdn1.streamencoding.com:1935/tgrt_eu/tgrteu1
-#EXTINF:-0,TGRT HABER
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.canlitv8.com/wp-content/uploads/2015/04/TGRT_Haber1.png" tvg-name="TGRTHABER"  group-title="Group N/A",TGRTHABER
 rtmp://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3
 #EXTINF:-0,TJK TV
 http://tjktv.ercdn.net/tjktv.m3u8
@@ -569,7 +569,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-YuDuxNvCDV4/VDWF7ChyVCI/AAAAAAAAJkg/48wMSg4c4PQ/s1600/TRT_Haber_logosu.png" tvg-name="TRTHABER HD"  group-title="Group N/A",TRTHABER HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 
-#EXTINF:-0,TRT KURDI
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.habermrt.com/images/haberler/trt_6nin_adi_degisti_h242596.jpg" tvg-name="TRT KURDI"  group-title="Group N/A",TRT KURDI
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 #EXTINF:-0,TRT MÜZIK
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
@@ -593,6 +594,11 @@ http://188.138.9.246/S2/HLS_LIVE/tv2/iptvdelisi.m3u8
 http://mn-l.mncdn.com/karamel/karamel/iptvdelisi.m3u8
 #EXTINF:-0,TV 5
 http://yayin5.canliyayin.org:1935/live/tv5/iptvdelisi.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-Ge3P57Cp5Mc/VDWGUpfRKnI/AAAAAAAAJko/tmSrQKdbChA/s1600/Tv8_Yeni_Logo.png" tvg-name="TV8 HD"  group-title="Group N/A",TV8 HD
+http://149.255.152.110/tv8/index.m3u8
+
+
 #EXTINF:-0,TV 10
 rtmp://5.135.142.60:1935/tv10/xetero
 #EXTINF:-0,TV 21 (Diyarbekir)
