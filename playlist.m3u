@@ -371,8 +371,8 @@ rtmp://stream.taksimbilisim.com/koroglutv/bant1
 rtmp://www.arkumedia.com:1935/koytv/koytv
 
 
-#EXTINF:-0,KRAL TV 
-http://37.153.247.131:9981/stream/channelid/826976349?
+#EXTINF:-0,KRAL TV
+http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/421.ts
 
 #EXTINF:-0,KRAL AKUSTIK TV
 http://kraldigital.radyotvonline.com/kraldigital/smil:akustiktv.smil/iptvdelisi.m3u8?token=28f874b6b348bd9ece56f263d7515b9620e6c9baf355d178
@@ -392,6 +392,12 @@ rtmp://yayin8.canliyayin.org/kudustv/kudustv
 http://yayin5.canliyayin.org:1935/live/lalegultvx7/iptvdelisi.m3u8
 #EXTINF:-0,LIG TV
 http://ipradyotvdelisi.blogspot.de/2015/11/turk-televizyonlari-guncel-simple-tv.html
+#EXTINF:-0,LiGTV 1 HD
+http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/400.ts
+#EXTINF:-0,LIGTV 2 HD
+http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/590.ts
+#EXTINF:-0,LIG TV 3
+http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/1188.ts
 #EXTINF:-0,MAKINE TV
 rtmp://streaming.imajnetwork.com:80/makinetv/makinetv
 #EXTINF:-0,MALATYAM TV
@@ -432,6 +438,8 @@ rtmp://37.75.10.20:80/mpltv/mpltv
 rtmp://89.18.178.96/oflaDemo/livestream.flv
 #EXTINF:-0,NTV
 http://live01.tvnet.doracdn.com/live/smil:ntv.smil/iptvdelisi.m3u8
+#EXTINF:-0,NTV HABER HD
+http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/443.ts
 #EXTINF:-0,NIGDE TV 
 rtmp://stream.taksimbilisim.com/nigdentv/bant1
 #EXTINF:-0,NISA TV
@@ -487,6 +495,8 @@ http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/ipradyotvd
 rtmp://188.124.1.135:1935/seymen/seymen
 #EXTINF:-0,SHOW TV HD
 http://mn-i.mncdn.com/showtv_ios/smil:showtv.smil/iptvdelisi.m3u8
+#EXTINF:-0,SHOW TV HD
+http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/408.ts
 #EXTINF:-0,SHOWMAX
 http://mn-l.mncdn.com:1935/showmax/showmax2/chunklist_w1383210136.m3u8
 #EXTINF:-0,SHOWMAX alt.
@@ -512,6 +522,10 @@ rtmp://stream.taksimbilisim.com/srt/bant1
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://2.bp.blogspot.com/-zr1P6E9oFf0/TwBcI32AXHI/AAAAAAAABKg/X6k0YSCTKUg/s320/star-tv-yeni-logo.jpg" tvg-name="STARTV"  group-title="Group N/A",STARTV
 http://live01.tvnet.doracdn.com/live/smil:startv.smil/iptvdelisi.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://2.bp.blogspot.com/-zr1P6E9oFf0/TwBcI32AXHI/AAAAAAAABKg/X6k0YSCTKUg/s320/star-tv-yeni-logo.jpg" tvg-name="STAR TV"  group-title="Group N/A",STAR TV
+http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/412.ts
+
 #EXTINF:-0,StarLife TV
 http://rtmp.starlifetv.com:1935/starlifetv/starlifetv/iptvdelisi.m3u8
 #EXTINF:-0,SUN TV KONYA
@@ -549,8 +563,8 @@ rtmp://cdn1.streamencoding.com:1935/tgrt_eu/tgrteu1
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.canlitv8.com/wp-content/uploads/2015/04/TGRT_Haber1.png" tvg-name="TGRTHABER"  group-title="Group N/A",TGRTHABER
 rtmp://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3
 
-#EXTINF:-0,Tivibuspor
-http://orbit-iptv.com:2500/live/ital/ital1/1970.ts
+#EXTINF:-1,TR TIVIBU SPOR 1
+http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/434.ts
 
 
 #EXTINF:-0,TJK TV
@@ -673,3 +687,127 @@ http://ms.n1.tvkur.noccdn.com/cdn/540ea58191866/iptvdelisi.m3u8
 http://tvyayin.zirve.edu.tr/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-0, Z TV
 rtmp://stream.taksimbilisim.com:1935/ztv/bant1
+
+#EXTINF:-0,#### Alman Kanal ####
+#EXTINF:-0,DE:WRD
+http://149.202.201.221:8000/live/bouzaher/ryade/2333.ts
+#EXTINF:-0,DE:SRF1
+http://149.202.201.221:8000/live/bouzaher/ryade/2230.ts
+#EXTINF:-0,DE:SRF2
+http://149.202.201.221:8000/live/bouzaher/ryade/2231.ts
+#EXTINF:-0,DE:RTL
+http://149.202.201.221:8000/live/bouzaher/ryade/377.ts
+#EXTINF:-0,DE:RTL2
+http://149.202.201.221:8000/live/bouzaher/ryade/2003.ts
+#EXTINF:-0,DE:SUPER_RTL
+http://149.202.201.221:8000/live/bouzaher/ryade/2004.ts
+#EXTINF:-0,DE:ZEE_ONE
+http://149.202.201.221:8000/live/bouzaher/ryade/3136.ts
+#EXTINF:-0,DE:N24
+http://149.202.201.221:8000/live/bouzaher/ryade/3135.ts
+#EXTINF:-0,DE:RTL_NETRO
+http://149.202.201.221:8000/live/bouzaher/ryade/2335.ts
+#EXTINF:-0,DE:RTL_CRIM
+http://149.202.201.221:8000/live/bouzaher/ryade/2334.ts
+#EXTINF:-0,DE:ORF1
+http://149.202.201.221:8000/live/bouzaher/ryade/2011.ts
+#EXTINF:-0,DE:ORF2
+http://149.202.201.221:8000/live/bouzaher/ryade/374.ts
+#EXTINF:-0,DE:ORF3
+http://149.202.201.221:8000/live/bouzaher/ryade/2575.ts
+#EXTINF:-0,DE:ZDF
+http://149.202.201.221:8000/live/bouzaher/ryade/2743.ts
+#EXTINF:-0,DE:ZDF_INFO
+http://149.202.201.221:8000/live/bouzaher/ryade/372.ts
+#EXTINF:-0,DE:ZDF_NEO
+http://149.202.201.221:8000/live/bouzaher/ryade/2737.ts
+#EXTINF:-0,DE:SIXX
+http://149.202.201.221:8000/live/bouzaher/ryade/1500.ts
+#EXTINF:-0,DE:VOX
+http://149.202.201.221:8000/live/bouzaher/ryade/2005.ts
+#EXTINF:-0,DE:SAT1
+http://149.202.201.221:8000/live/bouzaher/ryade/2006.ts
+#EXTINF:-0,DE:PRO7_MAX
+http://149.202.201.221:8000/live/bouzaher/ryade/2331.ts
+#EXTINF:-0,DE:PRO7
+http://149.202.201.221:8000/live/bouzaher/ryade/1501.ts
+#EXTINF:-0,DE:DMAX
+http://149.202.201.221:8000/live/bouzaher/ryade/2734.ts
+#EXTINF:-0,DE:DAS_ERSTE
+http://149.202.201.221:8000/live/bouzaher/ryade/2978.ts
+#EXTINF:-0,DE:NDR
+http://149.202.201.221:8000/live/bouzaher/ryade/1502.ts
+#EXTINF:-0,DE:MUNCHEN_TV
+http://149.202.201.221:8000/live/bouzaher/ryade/2986.ts
+#EXTINF:-0,DE:ANIXE
+http://149.202.201.221:8000/live/bouzaher/ryade/2989.ts
+#EXTINF:-0,DE:N-TV
+http://149.202.201.221:8000/live/bouzaher/ryade/1504.ts
+#EXTINF:-0,DE:TNT_SERIE
+http://149.202.201.221:8000/live/bouzaher/ryade/376.ts
+#EXTINF:-0,DE:TNT_FILM
+http://149.202.201.221:8000/live/bouzaher/ryade/2336.ts
+#EXTINF:-0,DE:KABEL1
+http://149.202.201.221:8000/live/bouzaher/ryade/1506.ts
+#EXTINF:-0,DE:ARTE
+http://149.202.201.221:8000/live/bouzaher/ryade/1508.ts
+#EXTINF:-0,DE:SKY_CINEMA
+http://149.202.201.221:8000/live/bouzaher/ryade/371.ts
+#EXTINF:-0,DE:SKY_CINEMA_24HD
+http://149.202.201.221:8000/live/bouzaher/ryade/361.ts
+#EXTINF:-0,DE:SKY_ACTION
+http://149.202.201.221:8000/live/bouzaher/ryade/2736.ts
+#EXTINF:-0,DE:SKY_ATLANTIC
+http://149.202.201.221:8000/live/bouzaher/ryade/362.ts
+#EXTINF:-0,DE:SKY_EMOTION
+http://149.202.201.221:8000/live/bouzaher/ryade/360.ts
+#EXTINF:-0,DE:SKY_COMEDY
+http://149.202.201.221:8000/live/bouzaher/ryade/370.ts
+#EXTINF:-0,DE:Sky_KRIMI
+http://149.202.201.221:8000/live/bouzaher/ryade/942.ts
+#EXTINF:-0,DE:SKY_HITS
+http://149.202.201.221:8000/live/bouzaher/ryade/369.ts
+#EXTINF:-0,DE:SKY_MGM
+http://149.202.201.221:8000/live/bouzaher/ryade/2330.ts
+#EXTINF:-0,DE:KIKA
+http://149.202.201.221:8000/live/bouzaher/ryade/378.ts
+#EXTINF:-0,DE:DISNEY_XD
+http://149.202.201.221:8000/live/bouzaher/ryade/2264.ts
+#EXTINF:-0,DE:DISNEY_CINEMAGIC
+http://149.202.201.221:8000/live/bouzaher/ryade/2267.ts
+#EXTINF:-0,DE:DISNEY_CHANNEL
+http://149.202.201.221:8000/live/bouzaher/ryade/2332.ts
+#EXTINF:-0,DE:NICKELODEON
+http://149.202.201.221:8000/live/bouzaher/ryade/2007.ts
+#EXTINF:-0,DE:FOX
+http://149.202.201.221:8000/live/bouzaher/ryade/2276.ts
+#EXTINF:-0,DE:13TH_STREETHD
+http://149.202.201.221:8000/live/bouzaher/ryade/946.ts
+#EXTINF:-0,DE:SYFY
+http://149.202.201.221:8000/live/bouzaher/ryade/945.ts
+#EXTINF:-0,DE:NATGEO_WILD
+http://149.202.201.221:8000/live/bouzaher/ryade/943.ts
+#EXTINF:-0,DE:HISTORYHD
+http://149.202.201.221:8000/live/bouzaher/ryade/944.ts
+#EXTINF:-0,DE:NATGEO
+http://149.202.201.221:8000/live/bouzaher/ryade/375.ts
+#EXTINF:-0,DE:SKY_SELECT6
+http://149.202.201.221:8000/live/bouzaher/ryade/363.ts
+#EXTINF:-0,DE:SKY_SELECT5
+http://149.202.201.221:8000/live/bouzaher/ryade/364.ts
+#EXTINF:-0,DE:SKY_SELECT4
+http://149.202.201.221:8000/live/bouzaher/ryade/365.ts
+#EXTINF:-0,DE:SKY_SELECT3
+http://149.202.201.221:8000/live/bouzaher/ryade/366.ts
+#EXTINF:-0,DE:SKY_SELECT2
+http://149.202.201.221:8000/live/bouzaher/ryade/367.ts
+#EXTINF:-0,DE:SKY_SELECT1
+http://149.202.201.221:8000/live/bouzaher/ryade/368.ts
+#EXTINF:-0,DE:SPORT_DIGITAL
+http://149.202.201.221:8000/live/bouzaher/ryade/2338.ts
+#EXTINF:-0,DE:SKY_BUNDESLIGA_HD
+http://149.202.201.221:8000/live/bouzaher/ryade/359.ts
+#EXTINF:-0,DE:SKY_SPORTS_HD1
+http://149.202.201.221:8000/live/bouzaher/ryade/357.ts
+#EXTINF:-0,DE:SKY_SPORTS_HD2
+http://149.202.201.221:8000/live/bouzaher/ryade/358.ts
