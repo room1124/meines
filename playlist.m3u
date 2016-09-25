@@ -23,7 +23,8 @@ http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
 http://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-yQMBQUV5LOQ/VUDLWZzNKUI/AAAAAAAAARU/fB9wD8PKGyk/s1600/asporhd-webtvizle-me.png" tvg-name="ASPOR"  group-title="Group N/A",ASPOR 
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
-#EXTINF:-0,A SPOR HD alt. 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-yQMBQUV5LOQ/VUDLWZzNKUI/AAAAAAAAARU/fB9wD8PKGyk/s1600/asporhd-webtvizle-me.png" tvg-name="A SPOR alt"  group-title="Group N/A",A SPOR
+ alt 
 http://trkvz-live.ercdn.net/asporhd/asporhd_720p.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://4.bp.blogspot.com/-b2JwdLwDyAM/Ttfpk-bNbWI/AAAAAAAAA5Y/d_2_004S1cs/s1600/atv-hd-logo.jpg" tvg-name="ATV HD"  group-title="Group N/A",ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
@@ -37,6 +38,8 @@ rtmp://ms.n1.tvkur.noccdn.com/cdn/558d0f34918a2
 rtmp://ms.n1.tvkur.noccdn.com/cdn/559148303a53d
 #EXTINF:-0,AKSU TV
 rtmp://stream.taksimbilisim.com/aksutv/bant1
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbRfZZRIpBgZX16EDwMWmtYftgE7oaNw_nHZ00gz29pGy-RzeLIA" tvg-name="AKIT TV"  group-title="Group N/A",AKIT TV
+http://yayin3.canlitv.com:1935/canlitv/akittv/playlist.m3u8
 #EXTINF:-0,ALANYA ATV
 http://stream2.taksimbilisim.com:1935/alanyatv/smil:alanyatv.smil/iptvdelisi.m3u8
 #EXTINF:-0,ALANYA TV
@@ -89,7 +92,7 @@ http://beykozbelediyesilive.mediatriple.net/beykozbelediyesi_live/broadcast_56b8
 http://www.arkumedia.com:1935/biattv/biattv/iptvdelisi.m3u8
 #EXTINF:-0,Bizim TV Tekirdag
 rtmp://178.32.55.242/live/bizimtv
-#EXTINF:-0,BLOOMBERG HT
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://sorgulama.biz.tr/wp-content/uploads/2015/02/BLOMBERG-HT.png" tvg-name="BLOOMBERG HT"  group-title="Group N/A",BLOOMBERG HT
 http://mn-l.mncdn.com/bloomberght/bloomberght2/iptvdelisi.m3u8
 #EXTINF:-0,BRTV Karabük
 http://yayin3.canlitv.com:1935/canlitv/brtv/iptvdelisi.m3u8
@@ -113,15 +116,15 @@ rtmp://win1.yayin.com.tr/bursatv/bursatv
 rtmp://yayin5.canliyayin.org:1935/live/bcturk1
 #EXTINF:-0,CAN TV 24
 http://yayin3.canlitv.com:1935/canlitv/cantv/iptvdelisi.m3u8
-#EXTINF:-0,Cartoon Network
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.hizliresim.com/byv48G.jpg" tvg-name="CARTOON NETWORK"  group-title="Group N/A",CARTOON NETWORK
 http://yayin3.canlitv.com:1935/canlitv/cartoonnetwork/chunklist_w1949468548.m3u8
 #EXTINF:-0,CEM TV
 rtmp://stream.pivol.com:1935/live/cemtv
 #EXTINF:-0,CLUBTURK TV
 http://live4.origins.web.tv:1935/akamairtmp/0f45dbf974d7a4a1b31730ef5c36b235_live_0_0.stream/iptvdelisi.m3u8
-#EXTINF:-0,CNN TÜRK
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/468741304235466753/816aNBEv.jpeg" tvg-name="CNN TÜRK"  group-title="Group N/A",CNN TÜRK
 http://188.138.9.246/S2/HLS_LIVE/cnn_turk/index.m3u8
-#EXTINF:-0,CNN TÜRK alt
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/468741304235466753/816aNBEv.jpeg" tvg-name="CNN TÜRK"  group-title="Group N/A",CNN TÜRK alt.
 http://media.netd.com.tr/S2/HLS_LIVE/cnn_turk/index.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/468741304235466753/816aNBEv.jpeg" tvg-name="CNNTURK SECENEK 2"  group-title="Group N/A",CNNTURK SECENEK 2
@@ -205,7 +208,7 @@ http://151.252.39.85/telezapp/FoxHD.stream/playlist.m3u8
 http://62.153.171.60:1466
 #EXTINF:-0,FM TV
 http://yayin5.canliyayin.org:1935/fatihmedreseleri/fatihmedreseleri/iptvdelisi.m3u8
-#EXTINF:-0,FLASH TV
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://1.bp.blogspot.com/-Z1dGfye062Y/VPwwczSzEMI/AAAAAAAAAUQ/d9iUrO5EnXU/s1600/flash_tv_kimin.png" tvg-name="FLASH TV"  group-title="Group N/A",FLASH TV
 http://184.173.181.2:1935/8158/8158/iptvdelisi.m3u8
 #EXTINF:-0,FRM TV HD
 http://195.154.181.242:1935/live/myStream/iptvdelisi.m3u8
@@ -245,7 +248,7 @@ mms://yayin7.canliyayin.org/sinema4
 mms://yayin7.canliyayin.org/sinema5
 #EXTINF:-0,HD SINEMA 6
 mms://yayin7.canliyayin.org/sinema6
-#EXTINF:-0,HILAL TV
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.canlitv.info/wp-content/uploads/2014/05/hilal-tv-izl.png" tvg-name="HILAL TV"  group-title="Group N/A",HILAL TV
 rtmp://yayin5.canliyayin.org:1935/hilaltv/hilaltv
 #EXTINF:-0,IÇEL TV
 http://stream.taksimbilisim.com:1935/iceltv/smil:iceltv.smil/iptvdelisi.m3u8
@@ -388,7 +391,7 @@ http://kraldigital.radyotvonline.com/kraldigital/smil:homemadetv.smil/iptvdelisi
 http://kraldigital.radyotvonline.com/kraldigital/smil:demotv.smil/iptvdelisi.m3u8?token=39b2321f02a6e1994c32d58a2304c81acd0950b955e04826
 #EXTINF:-0,KUDÜS TV
 rtmp://yayin8.canliyayin.org/kudustv/kudustv
-#EXTINF:-0,LALEGÜL TV
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lalegültv.com/uploads/articles/62b3b098.jpg" tvg-name="LALEGÜL TV"  group-title="Group N/A",LALEGÜL TV
 http://yayin5.canliyayin.org:1935/live/lalegultvx7/iptvdelisi.m3u8
 #EXTINF:-0,LIG TV
 http://ipradyotvdelisi.blogspot.de/2015/11/turk-televizyonlari-guncel-simple-tv.html
@@ -440,6 +443,8 @@ rtmp://89.18.178.96/oflaDemo/livestream.flv
 http://live01.tvnet.doracdn.com/live/smil:ntv.smil/iptvdelisi.m3u8
 #EXTINF:-0,NTV HABER HD
 http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/443.ts
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://img-cdn.ntvspor.net/C/I/159/ntvspor_hd_logo_600_PR52A.jpg" tvg-name="NTV SPOR"  group-title="Group N/A",NTV SPOR
+http://yayin3.canlitv.com:1935/canlitv/ntvspor/playlist.m3u8
 #EXTINF:-0,NIGDE TV 
 rtmp://stream.taksimbilisim.com/nigdentv/bant1
 #EXTINF:-0,NISA TV
@@ -468,7 +473,7 @@ rtmp://ms1.sanlisoy.com/pamukkaletv/pamukkaletv
 http://planet-live.ercdn.net/planetm.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.hizliresim.com/B8O9WV.jpg" tvg-name="PLANET TÜRK"  group-title="Group N/A",PLANET TÜRK
 http://77.223.146.117:1935/live/planett/chunklist.m3u8
-#EXTINF:-1,PLANET ÇOCUK
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://cizgifilmizler.org/wp-content/uploads/planet-cocuk.jpg" tvg-name="PLANET COCUK"  group-title="Group N/A",PLANET COCUK
 rtmp://77.223.146.117/live/planetc
 #EXTINF:-1,PLANET PEMBE
 rtmp://77.223.146.117/live/planetp
@@ -493,7 +498,7 @@ rtmp://yayin3.canlitv.com/live/untv
 http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/ipradyotvdelisi.m3u8
 #EXTINF:-0,SEYMEN TV
 rtmp://188.124.1.135:1935/seymen/seymen
-#EXTINF:-0,SHOW TV HD
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-iFrtsg17Da8/TtWsEu4IbMI/AAAAAAAAAxo/oNUvN7ODJgs/s1600/Show-TV-logo.png" tvg-name="SHOW TV HD"  group-title="Group N/A",SHOW TV HD
 http://mn-i.mncdn.com/showtv_ios/smil:showtv.smil/iptvdelisi.m3u8
 #EXTINF:-0,SHOW TV HD
 http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/408.ts
@@ -578,7 +583,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.emlakglobal.com/wp-content/uploads/trtarapca.jpg" tvg-name="TRT ARAPÇA"  group-title="Group N/A",TRT ARAPÇA
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-0,TRT AVAZ
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/547393405450321921/gnrEXfb0.png" tvg-name="TRT AVAZ"  group-title="Group N/A",TRT AVAZ
 http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
 #EXTINF:-0,TRT BELGESEL
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
@@ -604,8 +609,10 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://2.bp.blogspot.com/-xyPg1KG47OU/TtWt-Usr0aI/AAAAAAAAAy4/eHsOR8q1avU/s1600/trt-turk-logo.jpg" tvg-name="TRT TURK"  group-title="Group N/A",TRT TURK
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-#EXTINF:-0,TRT WORLD
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.hizliresim.com/9GYv7Q.jpg" tvg-name="TRT WORLD"  group-title="Group N/A",TRT WORLD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.hizliresim.com/9GYv7Q.jpg" tvg-name="TRT WORLD"  group-title="Group N/A",TRT WORLD
+http://si.trtcdn.com/tv/webtvizletme/trtworld_1/chunklist_w1187988455.m3u8
 #EXTINF:-0,TRT MÜZIK
 rtmp://217.174.225.146/legacywebtv/ch020_720
 #EXTINF:-0,TV A (Adana)
