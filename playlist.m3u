@@ -24,11 +24,12 @@ http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.hizliresim.com/WbXr7m.jpg" tvg-name="DREAM TURK TV"  group-title="Group N/A",DREAMTURK TV
 http://188.138.9.246/S2/HLS_LIVE/dreamturktv/index.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://1.bp.blogspot.com/-Z1dGfye062Y/VPwwczSzEMI/AAAAAAAAAUQ/d9iUrO5EnXU/s1600/flash_tv_kimin.png" tvg-name="FLASH TV"  group-title="Group N/A",FLASH TV
-http://184.173.181.2:1935/8158/8158/iptvdelisi.m3u8
+http://184.173.181.2:1935/8158/8158/
 
+#EXTINF:-0,FOX TV-alt
+http://yayin2.canlitv.life/foxtv.m3u8
 
-
-#EXTINF:-0,FOX TV HD
+#EXTINF:-0,FOX TV
 http://xtream-codes.no-ip.org:61250/live/sele/sele/11560.ts
 
 
