@@ -2,7 +2,7 @@
 
 #EXTINF:-0,#### FAVORI KANAL ####
 #EXTINF:-1,Star TV
-<iframe src="http://www.canlitvlive.co/tvizle.php?t=1&tv=star-tv" width="1920" height="1080"></iframe> 
+http://85.132.59.163:1234/startv
 #EXTINF:-0,ATV
 <iframe src="http://www.canlitvlive.co/tvizle.php?t=1&tv=atv" frameborder="0" width="1920" height="1080"></iframe>
 #EXTINF:-1,Flash TV
