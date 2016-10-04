@@ -1,6 +1,18 @@
 #EXTM3U
 
 #EXTINF:-0,#### FAVORI KANAL ####
+#EXTINF:-1,Star TV
+<iframe src="http://www.canlitvlive.co/tvizle.php?t=1&tv=star-tv" width="1920" height="1080"></iframe> 
+#EXTINF:-0,ATV
+<iframe src="http://www.canlitvlive.co/tvizle.php?t=1&tv=atv" frameborder="0" width="1920" height="1080"></iframe>
+#EXTINF:-1,Flash TV
+<iframe src="http://www.canlitvlive.co/tvizle.php?t=1&tv=flash-tv" frameborder="0" width="1920" height="1080"></iframe>
+#EXTINF:-0,TV 8 Int
+http://85.132.59.163:1234/tv8int
+#EXTINF:-1,TV 8
+<iframe src="http://www.canlitvlive.co/tvizle.php?t=1&tv=tv-8" frameborder="0" width="1920" height="1080"></iframe>
+
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-0wSFkdLX0Hk/Ttb3eBR7LKI/AAAAAAAAA1Y/u7MEd8sHdGs/s1600/a-haber.jpg" tvg-name="A HABER"  group-title="Group N/A",A HABER 
 http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
 #EXTINF:-0,A HABER alt. 
