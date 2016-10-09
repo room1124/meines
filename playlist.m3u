@@ -1,16 +1,18 @@
 #EXTM3U
 
 #EXTINF:-0,#### FAVORI KANAL ####
+#EXTINF:-0,Star TV
+http://yayin2.tvizlehd.com/startv.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-iFrtsg17Da8/TtWsEu4IbMI/AAAAAAAAAxo/oNUvN7ODJgs/s1600/Show-TV-logo.png" tvg-name="SHOW TV HD"  group-title="Group N/A",SHOW TV HD
 http://showtv.staging.viviso.tv/480/live.m3u8
 #EXTINF:-0,ATV
 <iframe src="http://www.canlitvlive.co/tvizle.php?t=1&tv=atv" frameborder="0" width="1920" height="1080"></iframe>
-#EXTINF:-1,Flash TV
+#EXTINF:-0,Flash TV
 <iframe src="http://www.canlitvlive.co/tvizle.php?t=1&tv=flash-tv" frameborder="0" width="1920" height="1080"></iframe>
 #EXTINF:-0,TV 8 Int
 http://85.132.59.163:1234/tv8int
-#EXTINF:-1,TV 8
+#EXTINF:-0,TV 8
 <iframe src="http://www.canlitvlive.co/tvizle.php?t=1&tv=tv-8" frameborder="0" width="1920" height="1080"></iframe>
 
 
@@ -854,4 +856,3 @@ http://ms.n1.tvkur.noccdn.com/cdn/540ea58191866/iptvdelisi.m3u8
 http://tvyayin.zirve.edu.tr/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-0, Z TV
 rtmp://stream.taksimbilisim.com:1935/ztv/bant1
-
