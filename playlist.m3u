@@ -41,14 +41,10 @@ http://184.173.181.2:1935/8158/8158/
 #EXTINF:-0,FOX TV-alt
 http://yayin2.canlitv.life/foxtv.m3u8
 
-#EXTINF:-0,FOX TV
-http://xtream-codes.no-ip.org:61250/live/sele/sele/11560.ts
 
-#EXTINF:-0,FOX TV-alt2
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-AIEvONnNgIE/TtWtJGKJvJI/AAAAAAAAAyY/otU-RcsLRCg/s320/Fox-Logo.png" tvg-name="FOXTV HD"  group-title="Group N/A",FOXTV HD
 http://fox.staging.viviso.tv/480/live.m3u8
 
-#EXTINF:-0,FOX TV HD
-http://149.255.152.110/foxturk/index.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-AIEvONnNgIE/TtWtJGKJvJI/AAAAAAAAAyY/otU-RcsLRCg/s320/Fox-Logo.png" tvg-name="FOXTV HD"  group-title="Group N/A",FOXTV HD
 http://151.252.39.85/telezapp/FoxHD.stream/playlist.m3u8
 #EXTINF:-0,HABERTÜRK TV HD
@@ -89,7 +85,8 @@ http://yayin3.canlitv.com:1935/canlitv/ntvspor/playlist.m3u8
 http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/iptvdelisi.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.powerturk.com/i/defaultAlbumArt.jpg" tvg-name="POWERTURK TV"  group-title="Group N/A",POWERTURK TV
 http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/iptvdelisi.m3u8
-
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-iFrtsg17Da8/TtWsEu4IbMI/AAAAAAAAAxo/oNUvN7ODJgs/s1600/Show-TV-logo.png" tvg-name="SHOW TV HD"  group-title="Group N/A",SHOW TV HD
+http://showtv.staging.viviso.tv/480/live.m3u8
 
 #EXTINF:-0,SHOWTÜRK
 http://mn-l.mncdn.com/showturktv/showturktv2/iptvdelisi.m3u8
@@ -99,9 +96,7 @@ http://live01.tvnet.doracdn.com/live/smil:startv.smil/iptvdelisi.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://2.bp.blogspot.com/-zr1P6E9oFf0/TwBcI32AXHI/AAAAAAAABKg/X6k0YSCTKUg/s320/star-tv-yeni-logo.jpg" tvg-name="STAR TV"  group-title="Group N/A",STAR TV
 http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/412.ts
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-iFrtsg17Da8/TtWsEu4IbMI/AAAAAAAAAxo/oNUvN7ODJgs/s1600/Show-TV-logo.png" tvg-name="SHOW TV HD"  group-title="Group N/A",SHOW TV HD
-http://mn-i.mncdn.com/showtv_ios/smil:showtv.smil/iptvdelisi.m3u8
-#EXTINF:-0,SHOW TV HD
-http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/408.ts
+http://showtv.staging.viviso.tv/480/live.m3u8
 #EXTINF:-0,TGRT BELGESEL
 rtmp://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1
 #EXTINF:-0,TGRT EU
@@ -667,9 +662,8 @@ http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/ipradyotvd
 #EXTINF:-0,SEYMEN TV
 rtmp://188.124.1.135:1935/seymen/seymen
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-iFrtsg17Da8/TtWsEu4IbMI/AAAAAAAAAxo/oNUvN7ODJgs/s1600/Show-TV-logo.png" tvg-name="SHOW TV HD"  group-title="Group N/A",SHOW TV HD
-http://mn-i.mncdn.com/showtv_ios/smil:showtv.smil/iptvdelisi.m3u8
-#EXTINF:-0,SHOW TV HD
-http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/408.ts
+http://showtv.staging.viviso.tv/480/live.m3u8
+
 #EXTINF:-0,SHOWMAX
 http://mn-l.mncdn.com:1935/showmax/showmax2/chunklist_w1383210136.m3u8
 #EXTINF:-0,SHOWMAX alt.
