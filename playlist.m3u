@@ -1,8 +1,9 @@
 #EXTM3U
 
 #EXTINF:-0,#### FAVORI KANAL ####
-#EXTINF:-0,EuroStar
-http://149.255.152.69/hls-live/livepkgr/startv/startv/startv.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-iFrtsg17Da8/TtWsEu4IbMI/AAAAAAAAAxo/oNUvN7ODJgs/s1600/Show-TV-logo.png" tvg-name="SHOW TV HD"  group-title="Group N/A",SHOW TV HD
+http://showtv.staging.viviso.tv/480/live.m3u8
 #EXTINF:-0,ATV
 <iframe src="http://www.canlitvlive.co/tvizle.php?t=1&tv=atv" frameborder="0" width="1920" height="1080"></iframe>
 #EXTINF:-1,Flash TV
@@ -97,8 +98,7 @@ http://live01.tvnet.doracdn.com/live/smil:startv.smil/iptvdelisi.m3u8
 http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/412.ts
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-iFrtsg17Da8/TtWsEu4IbMI/AAAAAAAAAxo/oNUvN7ODJgs/s1600/Show-TV-logo.png" tvg-name="SHOW TV HD"  group-title="Group N/A",SHOW TV HD
 http://showtv.staging.viviso.tv/480/live.m3u8
-#EXTINF:-0,TGRT BELGESEL
-rtmp://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1
+
 #EXTINF:-0,TGRT EU
 rtmp://cdn1.streamencoding.com:1935/tgrt_eu/tgrteu1
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.canlitv8.com/wp-content/uploads/2015/04/TGRT_Haber1.png" tvg-name="TGRTHABER"  group-title="Group N/A",TGRTHABER
@@ -363,10 +363,8 @@ http://159.122.237.254/2/eHEPJ3yg/56524/KOtC5SU/14633/F9l23rg/euronews.m3u8
 rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
 #EXTINF:-0,FASHION ONE TV
 http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/iptvdelisi.m3u8
-#EXTINF:-0,FOX TV HD
-http://149.255.152.110/foxturk/index.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-AIEvONnNgIE/TtWtJGKJvJI/AAAAAAAAAyY/otU-RcsLRCg/s320/Fox-Logo.png" tvg-name="FOXTV HD"  group-title="Group N/A",FOXTV HD
-http://151.252.39.85/telezapp/FoxHD.stream/playlist.m3u8
+http://fox.staging.viviso.tv/480/live.m3u8
 #EXTINF:-0,FINEST TV
 http://62.153.171.60:1466
 #EXTINF:-0,FM TV
@@ -857,126 +855,3 @@ http://tvyayin.zirve.edu.tr/hls-live/livepkgr/_definst_/liveevent/livestream.m3u
 #EXTINF:-0, Z TV
 rtmp://stream.taksimbilisim.com:1935/ztv/bant1
 
-#EXTINF:-0,#### Alman Kanal ####
-#EXTINF:-0,DE:WRD
-http://149.202.201.221:8000/live/bouzaher/ryade/2333.ts
-#EXTINF:-0,DE:SRF1
-http://149.202.201.221:8000/live/bouzaher/ryade/2230.ts
-#EXTINF:-0,DE:SRF2
-http://149.202.201.221:8000/live/bouzaher/ryade/2231.ts
-#EXTINF:-0,DE:RTL
-http://149.202.201.221:8000/live/bouzaher/ryade/377.ts
-#EXTINF:-0,DE:RTL2
-http://149.202.201.221:8000/live/bouzaher/ryade/2003.ts
-#EXTINF:-0,DE:SUPER_RTL
-http://149.202.201.221:8000/live/bouzaher/ryade/2004.ts
-#EXTINF:-0,DE:ZEE_ONE
-http://149.202.201.221:8000/live/bouzaher/ryade/3136.ts
-#EXTINF:-0,DE:N24
-http://149.202.201.221:8000/live/bouzaher/ryade/3135.ts
-#EXTINF:-0,DE:RTL_NETRO
-http://149.202.201.221:8000/live/bouzaher/ryade/2335.ts
-#EXTINF:-0,DE:RTL_CRIM
-http://149.202.201.221:8000/live/bouzaher/ryade/2334.ts
-#EXTINF:-0,DE:ORF1
-http://149.202.201.221:8000/live/bouzaher/ryade/2011.ts
-#EXTINF:-0,DE:ORF2
-http://149.202.201.221:8000/live/bouzaher/ryade/374.ts
-#EXTINF:-0,DE:ORF3
-http://149.202.201.221:8000/live/bouzaher/ryade/2575.ts
-#EXTINF:-0,DE:ZDF
-http://149.202.201.221:8000/live/bouzaher/ryade/2743.ts
-#EXTINF:-0,DE:ZDF_INFO
-http://149.202.201.221:8000/live/bouzaher/ryade/372.ts
-#EXTINF:-0,DE:ZDF_NEO
-http://149.202.201.221:8000/live/bouzaher/ryade/2737.ts
-#EXTINF:-0,DE:SIXX
-http://149.202.201.221:8000/live/bouzaher/ryade/1500.ts
-#EXTINF:-0,DE:VOX
-http://149.202.201.221:8000/live/bouzaher/ryade/2005.ts
-#EXTINF:-0,DE:SAT1
-http://149.202.201.221:8000/live/bouzaher/ryade/2006.ts
-#EXTINF:-0,DE:PRO7_MAX
-http://149.202.201.221:8000/live/bouzaher/ryade/2331.ts
-#EXTINF:-0,DE:PRO7
-http://149.202.201.221:8000/live/bouzaher/ryade/1501.ts
-#EXTINF:-0,DE:DMAX
-http://149.202.201.221:8000/live/bouzaher/ryade/2734.ts
-#EXTINF:-0,DE:DAS_ERSTE
-http://149.202.201.221:8000/live/bouzaher/ryade/2978.ts
-#EXTINF:-0,DE:NDR
-http://149.202.201.221:8000/live/bouzaher/ryade/1502.ts
-#EXTINF:-0,DE:MUNCHEN_TV
-http://149.202.201.221:8000/live/bouzaher/ryade/2986.ts
-#EXTINF:-0,DE:ANIXE
-http://149.202.201.221:8000/live/bouzaher/ryade/2989.ts
-#EXTINF:-0,DE:N-TV
-http://149.202.201.221:8000/live/bouzaher/ryade/1504.ts
-#EXTINF:-0,DE:TNT_SERIE
-http://149.202.201.221:8000/live/bouzaher/ryade/376.ts
-#EXTINF:-0,DE:TNT_FILM
-http://149.202.201.221:8000/live/bouzaher/ryade/2336.ts
-#EXTINF:-0,DE:KABEL1
-http://149.202.201.221:8000/live/bouzaher/ryade/1506.ts
-#EXTINF:-0,DE:ARTE
-http://149.202.201.221:8000/live/bouzaher/ryade/1508.ts
-#EXTINF:-0,DE:SKY_CINEMA
-http://149.202.201.221:8000/live/bouzaher/ryade/371.ts
-#EXTINF:-0,DE:SKY_CINEMA_24HD
-http://149.202.201.221:8000/live/bouzaher/ryade/361.ts
-#EXTINF:-0,DE:SKY_ACTION
-http://149.202.201.221:8000/live/bouzaher/ryade/2736.ts
-#EXTINF:-0,DE:SKY_ATLANTIC
-http://149.202.201.221:8000/live/bouzaher/ryade/362.ts
-#EXTINF:-0,DE:SKY_EMOTION
-http://149.202.201.221:8000/live/bouzaher/ryade/360.ts
-#EXTINF:-0,DE:SKY_COMEDY
-http://149.202.201.221:8000/live/bouzaher/ryade/370.ts
-#EXTINF:-0,DE:Sky_KRIMI
-http://149.202.201.221:8000/live/bouzaher/ryade/942.ts
-#EXTINF:-0,DE:SKY_HITS
-http://149.202.201.221:8000/live/bouzaher/ryade/369.ts
-#EXTINF:-0,DE:SKY_MGM
-http://149.202.201.221:8000/live/bouzaher/ryade/2330.ts
-#EXTINF:-0,DE:KIKA
-http://149.202.201.221:8000/live/bouzaher/ryade/378.ts
-#EXTINF:-0,DE:DISNEY_XD
-http://149.202.201.221:8000/live/bouzaher/ryade/2264.ts
-#EXTINF:-0,DE:DISNEY_CINEMAGIC
-http://149.202.201.221:8000/live/bouzaher/ryade/2267.ts
-#EXTINF:-0,DE:DISNEY_CHANNEL
-http://149.202.201.221:8000/live/bouzaher/ryade/2332.ts
-#EXTINF:-0,DE:NICKELODEON
-http://149.202.201.221:8000/live/bouzaher/ryade/2007.ts
-#EXTINF:-0,DE:FOX
-http://149.202.201.221:8000/live/bouzaher/ryade/2276.ts
-#EXTINF:-0,DE:13TH_STREETHD
-http://149.202.201.221:8000/live/bouzaher/ryade/946.ts
-#EXTINF:-0,DE:SYFY
-http://149.202.201.221:8000/live/bouzaher/ryade/945.ts
-#EXTINF:-0,DE:NATGEO_WILD
-http://149.202.201.221:8000/live/bouzaher/ryade/943.ts
-#EXTINF:-0,DE:HISTORYHD
-http://149.202.201.221:8000/live/bouzaher/ryade/944.ts
-#EXTINF:-0,DE:NATGEO
-http://149.202.201.221:8000/live/bouzaher/ryade/375.ts
-#EXTINF:-0,DE:SKY_SELECT6
-http://149.202.201.221:8000/live/bouzaher/ryade/363.ts
-#EXTINF:-0,DE:SKY_SELECT5
-http://149.202.201.221:8000/live/bouzaher/ryade/364.ts
-#EXTINF:-0,DE:SKY_SELECT4
-http://149.202.201.221:8000/live/bouzaher/ryade/365.ts
-#EXTINF:-0,DE:SKY_SELECT3
-http://149.202.201.221:8000/live/bouzaher/ryade/366.ts
-#EXTINF:-0,DE:SKY_SELECT2
-http://149.202.201.221:8000/live/bouzaher/ryade/367.ts
-#EXTINF:-0,DE:SKY_SELECT1
-http://149.202.201.221:8000/live/bouzaher/ryade/368.ts
-#EXTINF:-0,DE:SPORT_DIGITAL
-http://149.202.201.221:8000/live/bouzaher/ryade/2338.ts
-#EXTINF:-0,DE:SKY_BUNDESLIGA_HD
-http://149.202.201.221:8000/live/bouzaher/ryade/359.ts
-#EXTINF:-0,DE:SKY_SPORTS_HD1
-http://149.202.201.221:8000/live/bouzaher/ryade/357.ts
-#EXTINF:-0,DE:SKY_SPORTS_HD2
-http://149.202.201.221:8000/live/bouzaher/ryade/358.ts
