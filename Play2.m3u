@@ -1,4 +1,7 @@
 ﻿#EXTM3U
+ 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-gm6jQJ53lqA/VDWFJ8EWZWI/AAAAAAAAJkQ/smdtDJAzFWA/s1600/Trt1yenilogo.png" tvg-name="Test"  group-title="Group N/A",Test
+https://youtu.be/oruk-T3_xSw
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-gm6jQJ53lqA/VDWFJ8EWZWI/AAAAAAAAJkQ/smdtDJAzFWA/s1600/Trt1yenilogo.png" tvg-name="TRT1 HD"  group-title="Group N/A",TRT1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
